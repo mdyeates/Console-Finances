@@ -2,7 +2,7 @@
 
 ## Description
 
-This simple programme was created with JavaScript to assist a financial company analyse their finances in a given period over 86 months.
+This simple programme was created with JavaScript to assist a financial company with analysing their finances in a given period over 86 months.
 
 Summary:
 
