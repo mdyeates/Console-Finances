@@ -1,5 +1,4 @@
 // || Total number of months 
-
 var totalMonths = finances.length;
 
 // || Total Profit and Losses
@@ -51,6 +50,6 @@ var indexDecrease = diffNum(finances).indexOf(Math.min(...diffNum(finances)));
 // || Financial Analysis Console Display
 
 var financialAnalysis =
-    'Financial Analysis\n----------------------------' + '\nTotal Months: ' + totalMonths + '\nTotal: ' + netProfit + '\nAverage Change: ' + averageChange.toFixed(2) + '\nGreatest Increase: ' + greatestIncrease[0] + ' (' + greatestIncrease[1] + ')' + '\nGreatest Decrease: ' + greatestDecrease[0] + ' (' + greatestDecrease[1] + ')';
+    'Financial Analysis\n----------------------------' + '\nTotal Months: ' + totalMonths + '\nTotal: ' + netProfit + '\nAverage Change: ' + averageChange.toFixed(2) + '\nGreatest Increase in Profits: ' + greatestIncrease[0] + ' (' + greatestIncrease[1] + ')' + '\nGreatest Decrease in Profits: ' + greatestDecrease[0] + ' (' + greatestDecrease[1] + ')';
 
 console.log(financialAnalysis);
