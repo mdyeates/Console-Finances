@@ -26,7 +26,7 @@ N/A
 
 To see the financial analysis, you will need to open the console. To open the console, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. Ensure that you are on the console tab where the financial analysis is displayed.
 
-![Screenshot](images/console-display-screenshot.png)
+![Screenshot](images/console-updated-screenshot.png)
 
 ## Credits
 
