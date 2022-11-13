@@ -10,6 +10,7 @@ for (var mainIndex = 0; mainIndex < finances.length; mainIndex++) {
     profit = finances[mainIndex][1];
     netProfit += profit;
 }
+
 // || Average Change in Profit and Losses
 // Creates new array, differences between months + values
 function diff(finances) {
